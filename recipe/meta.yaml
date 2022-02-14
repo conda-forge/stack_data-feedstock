@@ -1,5 +1,5 @@
 {% set name = "stack_data" %}
-{% set version = "0.1.4" %}
+{% set version = "0.2.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 7769ed2482ce0030e00175dd1bf4ef1e873603b6ab61cd3da443b410e64e9477
+  sha256: 45692d41bd633a9503a5195552df22b583caf16f0b27c4e58c98d88c8b648e12
 
 build:
   number: 0
