@@ -1,11 +1,11 @@
-About stack_data
-================
+About stack_data-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/stack_data-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/alexmojaki/stack_data
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/stack_data-feedstock/blob/main/LICENSE.txt)
 
 Summary: Extract data from python stack frames and tracebacks for informative displays
 
